@@ -1,0 +1,19 @@
+{
+  "name": "bun_webview",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "bun run build.ts",
+    "build-app": "bun run build-app.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "webview-bun": "^2.4.0"
+  }
+}
