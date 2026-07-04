@@ -81,9 +81,9 @@ The [resources/](file:///Users/codecaine/bun_webview-1/resources) folder include
 
 *   **App Categories**: `developer.png` (IDE), `design.png` (Creative), `browser.png` (Web), `communication.png` (Chat), `game.png` (Gaming), `media.png` (Player), `productivity.png` (Office), `utility.png` (Settings).
 *   **Office & Productivity**: `calendar.png`, `calculator.png`, `notes.png`, `todo_list.png`, `kanban_board.png`, `time_tracker.png`, `slides.png`, `spreadsheet.png`, `whiteboard.png`, `mind_mapper.png`.
-*   **Developer & System Utilities**: `database.png`, `git_gui.png`, `terminal.png`, `terminal_multiplexer.png`, `ssh_client.png`, `api_client.png`, `api_doc_viewer.png`, `server_manager.png`, `virtual_machine.png`.
-*   **Security & Files**: `vault.png`, `password_manager.png`, `password_generator.png`, `security.png`, `file_manager.png`, `cloud_storage.png`, `backup_utility.png`.
-*   **And 50+ more...** (check the [resources](file:///Users/codecaine/bun_webview-1/resources) folder for the full catalog).
+*   **Developer & System Utilities**: `database.png`, `git_gui.png`, `terminal.png`, `terminal_multiplexer.png`, `ssh_client.png`, `api_client.png`, `api_doc_viewer.png`, `server_manager.png`, `virtual_machine.png`, `docker_monitor.png`, `git_client.png`, `database_admin.png`, `rest_client.png`, `log_viewer.png`, `regex_tester.png`, `profiler.png`, `package_manager.png`, `k8s_manager.png`, `pipeline_monitor.png`, `dom_explorer.png`.
+*   **Security & Files**: `vault.png`, `password_manager.png`, `password_generator.png`, `security.png`, `file_manager.png`, `cloud_storage.png`, `backup_utility.png`, `secret_manager.png`.
+*   **And 60+ more...** (check the [resources](file:///Users/codecaine/bun_webview-1/resources) folder for the full catalog).
 
 ## 🌐 Useful Online Icon Resources
 
