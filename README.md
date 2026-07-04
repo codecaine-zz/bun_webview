@@ -56,6 +56,45 @@ You can run any compiled `.app` bundle by:
    open "dist/Fluid Galaxy.app"
    ```
 
+## 🎨 Futuristic Apple-Style Icon Templates
+
+This repository includes a suite of **88 premium, futuristic Apple-style glassmorphism icons** located in the [resources/](file:///Users/codecaine/bun_webview-1/resources) directory. 
+
+These templates feature a sleek chamfered titanium rim, dark obsidian frosted glass tile, and a neon radial background glow—ideal for matching the design language of Apple Vision Pro or macOS Sequoia.
+
+### How to Use the Templates
+Pass the path of your chosen icon to the `build-app.ts` CLI tool using the `--icon` (`-i`) flag:
+
+```bash
+# Build a customized app using the Developer icon template
+bun run build-app --name "Code Edit" --icon resources/developer.png
+
+# Build a customized app using the Kanban Board icon template
+bun run build-app --name "Task Board" --icon resources/kanban_board.png
+
+# Build a customized app using the AI Chat icon template
+bun run build-app --name "AI Assistant" --icon resources/ai_chat.png
+```
+
+### Available Icon Templates
+The [resources/](file:///Users/codecaine/bun_webview-1/resources) folder includes the following premium designs:
+
+*   **App Categories**: `developer.png` (IDE), `design.png` (Creative), `browser.png` (Web), `communication.png` (Chat), `game.png` (Gaming), `media.png` (Player), `productivity.png` (Office), `utility.png` (Settings).
+*   **Office & Productivity**: `calendar.png`, `calculator.png`, `notes.png`, `todo_list.png`, `kanban_board.png`, `time_tracker.png`, `slides.png`, `spreadsheet.png`, `whiteboard.png`, `mind_mapper.png`.
+*   **Developer & System Utilities**: `database.png`, `git_gui.png`, `terminal.png`, `terminal_multiplexer.png`, `ssh_client.png`, `api_client.png`, `api_doc_viewer.png`, `server_manager.png`, `virtual_machine.png`.
+*   **Security & Files**: `vault.png`, `password_manager.png`, `password_generator.png`, `security.png`, `file_manager.png`, `cloud_storage.png`, `backup_utility.png`.
+*   **And 50+ more...** (check the [resources](file:///Users/codecaine/bun_webview-1/resources) folder for the full catalog).
+
+## 🌐 Useful Online Icon Resources
+
+If you need additional custom icons, here are some excellent online directories:
+
+- [IconArchive](https://www.iconarchive.com/) - Large searchable archive of standard application icons.
+- [Google Fonts Icons](https://fonts.google.com/icons) - Highly customizable, modern Material symbol sets.
+- [Simple Icons](https://simpleicons.org/) - Clean, brand-focused SVG icons for popular tech tools.
+- [Boxicons](https://boxicons.com/icons?free=true) - Premium web-friendly vector icon packs.
+- [Feather Icons](https://feathericons.com/) - Super-minimalist, lightweight open-source icons.
+
 ---
 
 This project was created using `bun init` in bun v1.3.14. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
